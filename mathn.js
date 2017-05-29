@@ -1,8 +1,3 @@
-$(document).ready(function(){
-	var Track = document.getElementById("Track");
-    Track.play(); 
-});
-
 initVar = {
 	f:'', //integrand
 	l:'', //lower bound
